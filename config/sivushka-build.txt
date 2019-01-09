@@ -1,0 +1,58 @@
+-- Building names:
+------------------
+-- Fortresses
+-- Depot Station
+-- Lumbermill
+-- Cavalry barracks
+-- Granary
+-- Iron mine
+-- Farm
+-- Infantry barracks
+-- Shooting Range
+-- Siege workshop
+-- Stone quarry
+
+-- Research names:
+------------------
+-- Tactics
+-- Centralization
+-- War horses
+-- Military Architecture
+-- Melee attack
+-- Medicine
+-- Cartography
+-- Armor
+-- Range attack
+-- University
+-- Military Medicine
+-- Fortification
+-- Architecture
+-- Trade
+-- Border outposts
+-- Spying
+-- Military Academy
+-- Bureaucracy
+
+-- Army names:
+------------------
+-- Elite archer
+-- Spearman
+-- Trebuchet
+-- Heavy cavalryman
+-- Swordsman
+-- Paladin
+-- Heavy archer
+-- Phalanx
+-- Archer
+-- Guardian
+-- Light cavalryman
+-- Battering ram
+-- Heavy swordsman
+-- Catapult
+-- Heavy spearman
+
+-- Add you constructions below in format <province_number><space><item name>
+----------------------------------------------------------------------------
+
+-- Province #8
+8 Farm
